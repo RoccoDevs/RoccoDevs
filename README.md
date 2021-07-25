@@ -19,12 +19,3 @@ Stats 📈
 </p>
 
 
-<h2 align="center">
-Streak 🔥 
-</h2>
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tomesendam&theme=dark-smoky&hide_border=true"/>
-  </a>
-</p>
