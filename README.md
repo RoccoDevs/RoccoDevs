@@ -14,7 +14,7 @@ Stats 📈
 <!-- Github readme stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img title"title" alt="alt" src="https://github-readme-stats.vercel.app/api?username=tomesendam&count_private=true&show_icons=true&theme=dark"/>
+    <img title"title" alt="alt" src="https://github-readme-stats.vercel.app/api?username=tomesendam&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
 </p>
 
